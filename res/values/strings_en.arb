@@ -1,0 +1,22 @@
+{
+  "appName": "WeChat Clone",
+  "chats": "WeChat",
+  "contacts": "Contacts",
+  "contacts_new_friends": "New Friends",
+  "contacts_group_chats": "Group Chats",
+  "contacts_tags": "Tags",
+  "contacts_official_accounts": "Official Accounts",
+  "discover": "Discover",
+  "discover_moments": "Moments",
+  "discover_scan": "Scan",
+  "discover_shake": "Shake",
+  "discover_search": "Search",
+  "discover_nearby": "People Nearby",
+  "discover_mp": "Mini Programs",
+  "me": "Me",
+  "me_pay": "WeChat Pay",
+  "me_favorite": "Favorites",
+  "me_posts": "My Posts",
+  "me_sticker": "Sticker Gallery",
+  "me_settings": "Settings"
+}

@@ -1,0 +1,22 @@
+{
+  "appName": "仿微信",
+  "chats": "微信",
+  "contacts": "通讯录",
+  "contacts_new_friends": "新的朋友",
+  "contacts_group_chats": "群聊",
+  "contacts_tags": "标签",
+  "contacts_official_accounts": "公众号",
+  "discover": "发现",
+  "discover_moments": "朋友圈",
+  "discover_scan": "扫一扫",
+  "discover_shake": "摇一摇",
+  "discover_search": "搜索",
+  "discover_nearby": "附近的人",
+  "discover_mp": "小程序",
+  "me": "我",
+  "me_pay": "微信支付",
+  "me_favorite": "收藏",
+  "me_posts": "相册",
+  "me_sticker": "表情",
+  "me_settings": "设置"
+}
