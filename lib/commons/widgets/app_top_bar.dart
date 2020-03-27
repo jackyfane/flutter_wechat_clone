@@ -1,11 +1,9 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-class CustomAppBar extends StatelessWidget {
-  String title;
-
-  CustomAppBar(this.title);
+class AppTopBar extends StatelessWidget implements PreferredSizeWidget {
+  final title;
+  AppTopBar({this.title});
 
   @override
   Widget build(BuildContext context) {
@@ -54,4 +52,8 @@ class CustomAppBar extends StatelessWidget {
       ),
     );
   }
+
+  @override
+  // TODO: implement preferredSize
+  Size get preferredSize => Size.fromHeight(65);
 }

@@ -1,12 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:wechatclone/commons/widgets/application_bar.dart';
 import 'package:wechatclone/commons/widgets/chat_list_tile.dart';
 import 'package:wechatclone/commons/widgets/wechat_scaffold.dart';
 import 'package:wechatclone/generated/i18n.dart';
 import 'package:wechatclone/commons/icons/iconfont.dart';
-import 'package:wechatclone/provider/bottom_nav_provider.dart';
 
 class Discover extends StatelessWidget {
   @override
